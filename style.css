@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  background-color: #041b3e;
+  place-items: center;
+  color: #fff;
+}
+
+#game {
+  background-color: #03606e;
+  border: 4px solid #cba73bfa;
+}
+
+#score {
+  font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-size: 2rem;
+}
